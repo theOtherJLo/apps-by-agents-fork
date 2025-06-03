@@ -35,4 +35,6 @@ logs/
 *.log
 
 # Testing
-coverage/ 
+coverage/
+# Python virtual environment
+**/venv/
